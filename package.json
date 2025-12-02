@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/vectorbyteio/notification-bot/issues"
   },
-  "homepage": "https://github.com/vectorbyteio/notification-bot#readme"
+  "homepage": "https://github.com/vectorbyteio/notification-bot#readme",
+  "dependencies": {
+    "node-notifier": "^10.0.1",
+    "node-schedule": "^2.1.1"
+  }
 }
